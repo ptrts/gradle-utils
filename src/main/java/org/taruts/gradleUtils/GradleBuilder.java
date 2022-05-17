@@ -1,8 +1,8 @@
-package we.gradleUtils;
+package org.taruts.gradleUtils;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.SystemUtils;
-import we.processUtils.ProcessRunner;
+import org.taruts.processUtils.ProcessRunner;
 
 import java.io.File;
 import java.util.ArrayList;
